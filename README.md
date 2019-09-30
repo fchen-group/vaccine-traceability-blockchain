@@ -1,6 +1,6 @@
-# 基于区块链的疫苗溯源解决方案(vac_blockchain)
+# 基于区块链的疫苗溯源解决方案
 项目的代码使用solidity语言写的，部署的平台是FISCO BCOS，值得注意的是，该平台中区块链中的数据主要是以表结构的KEY-VALUE形式存储的，所以项目中创建了很多不同的表。  
-FISCO BCOS建链教程请参考 https://fisco-bcos-documentation.readthedocs.io/zh_CN/latest/index.html。
+FISCO BCOS建链教程请参考 https://fisco-bcos-documentation.readthedocs.io/zh_CN/latest/index.html。  
 以下是简要的项目介绍。
 
 ## 1.我们项目将实现以下目标功能：
